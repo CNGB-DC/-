@@ -17,7 +17,6 @@
 
 ## 项目体验
 * Biomigo 
-  ![]:http://pan.baidu.com/s/1kUOuX87
-  <img src="http://pan.baidu.com/s/1kUOuX87">
+  ![test]:(http://pan.baidu.com/s/1kUOuX87)
 
 
