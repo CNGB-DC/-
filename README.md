@@ -1,35 +1,21 @@
 
 小程序应用开发
 =========================================
-
-* Biomigo
-
 ## 规划
+* . ~ 2017年2月28日
+  - 申请小程序认证（已完成）
+  - 小程序demo开发（Biomigo）
+  - 讨论小程序应用产品
+* 2017年3月1日 ~ 2017年4月30日
+  - 编写小程序功能模块（如图片轮播、上拉到底部加载更多、下拉到顶部刷新、数据请求等）
+  - 开发并发布一个小程序应用
+  
+## 项目列表及进展
+* Biomigo （使用 http://db.cngb.org/search/ 网站的接口）
+  - 编写了首页、查询页、查询结果页、cancer结果详细页面 
+  - 已经能与后台进行数据交互，只是由于现在还没有ssl证书，编写的部分跟数据相关的功能还没有测试（如：上拉到底部加载更多）
 
 
-## 进展
-
-
-## 开发者资源索引
-
-* 客户端
-  - [SDK](https://github.com/tencentyun/wafer-client-sdk) - 客户端增强 SDK 源码
-  - [Demo](https://github.com/tencentyun/wafer-client-demo) - 客户端 Demo
-* 业务服务器
-  - [PHP SDK](https://github.com/tencentyun/wafer-php-server-sdk) - PHP 解决方案的 SDK 源码及 Demo
-  - [C# SDK](https://github.com/tencentyun/wafer-csharp-server-sdk) - C# 解决方案的 SDK 源码及 Demo
-  - [Java SDK](https://github.com/tencentyun/wafer-java-server-sdk) - Java 解决方案的 SDK 源码及 Demo
-  - [Node SDK](https://github.com/tencentyun/wafer-node-server-sdk) - Node 解决方案的 SDK 源码及 Demo
-* 会话服务器
-  - [Session Server](https://github.com/tencentyun/wafer-session-server) - 会话服务器的源码
-* 微信小程序文档
-  - [小程序介绍](https://mp.weixin.qq.com/debug/wxadoc/introduction)
-  - [设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/)
-  - [开发指南](https://mp.weixin.qq.com/debug/wxadoc/dev/)
-    - [组件](https://mp.weixin.qq.com/debug/wxadoc/dev/component/)
-    - [API 文档](https://mp.weixin.qq.com/debug/wxadoc/dev/api/)
-    - [开发工具下载](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
-* 优质第三方资源
 
 
 
